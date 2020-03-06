@@ -1,0 +1,20 @@
+{
+  "name": {
+    "en": "scale"
+  },
+  "description": {
+    "en": "Business scale definition according to the regulations and standards of the Ministry of Industry and sme in the Dominican Republic"
+  },
+  "documentationUrl": {
+    "en": ""
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "codelists": [
+    "partyScale.csv"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}
