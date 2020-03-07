@@ -6,7 +6,7 @@
     "en": "Business scale definition according to the regulations and standards of the Ministry of Industry and sme in the Dominican Republic"
   },
   "documentationUrl": {
-    "en": ""
+    "en": "https://raw.githubusercontent.com/dgcpcompraspublicas/ocds_partyDetails_scale_extension/master/README.md"
   },
   "schemas": [
     "release-schema.json"
