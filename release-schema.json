@@ -1,0 +1,23 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "details": {
+          "properties": {
+            "scale": {
+              "enum": [
+                "micro",
+                "sme",
+                "small",
+                "medium",
+                "large",
+                "person",
+                null
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
