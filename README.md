@@ -31,10 +31,9 @@ This extension adds a scale field to the parties.details object. The values of t
         "region": "DISTRITO NACIONAL"
       },
       "details": {
-        "gender": "male",
         "scale": "large"
       }
-    }  
+    }
   ]
 }
 ```
