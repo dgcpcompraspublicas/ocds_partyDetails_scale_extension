@@ -8,13 +8,13 @@
   "documentationUrl": {
     "en": "https://raw.githubusercontent.com/dgcpcompraspublicas/ocds_partyDetails_scale_extension/master/README.md"
   },
-  "schemas": [
-    "release-schema.json"
-  ],
   "codelists": [
-    "partyScale.csv"
+    "+partyScale.csv"
   ],
   "compatibility": [
     "1.1"
+  ],
+  "dependencies": [
+    "https://raw.githubusercontent.com/open-contracting-extensions/ocds_partyDetails_scale_extension/master/extension.json"
   ]
 }
